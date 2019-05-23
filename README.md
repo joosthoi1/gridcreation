@@ -1,7 +1,7 @@
 # gridcreation
 my code for a grid of checkbuttons and ways to manipulate said checkbuttons
   
-##Usage  
+## Usage  
 Firstly, import the class.  
 Then, asign a variable to call the class with an x and y.  
 There are some options which I will get into later
